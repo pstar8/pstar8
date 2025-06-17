@@ -1,16 +1,32 @@
-## Hi there 👋
+ ## Hi, I'm Ifeoluwa 🌸
 
-<!--
-**pstar8/pstar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 A passionate Frontend Developer growing one project at a time<br/>
+💡 Economics student <br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages**: HTML, CSS, JavaScript (ES6+) 
+- **Frameworks/Libraries**: React.js, Next.js, Tailwind CSS, Sass/SCSS
+- **Tools**: Git & GitHub, Figma, VS Code, Chrome DevTools 
+- **Learning**: TypeScript, Testing, API integrations, Server-Side Rendering
+  
+---
+
+### 📚 What I’m working on
+
+- Mastering **real-world project building** for junior/mid-level job readiness  
+- Improving UI/UX skills by **focusing on a mix of learning, practice and feedbacklin**  
+- Exploring **remote internships** and **open source contributions**  
+- Sharing my journey on GitHub and growing my **personal brand**  
+
+---
+
+### 📬 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ifeoluwaadeniyi/)  
+- 📫 Reach me: ifedaraniyi@gmail.com
+
+---
+
+> “It’s not just about writing code — it’s about building *impactful experiences* people love to use.”

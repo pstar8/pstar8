@@ -1,5 +1,5 @@
  ## Hi, I'm Ifeoluwa 🌸
-💡 Data Scientist | AI/ML Engineer | Full-Stack Developer
+💡 Data Scientist | AI/ML Engineer | Front-End Developer
 
 ---
 ## 🚀 About Me  

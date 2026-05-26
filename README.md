@@ -1,39 +1,42 @@
- ## Hi, I'm Ifeoluwa 🌸
-💡 Data Scientist | AI/ML Engineer | Front-End Developer
+## Hi, I'm Ifeoluwa 🌸
+
+💡 ML Engineer | Front-End Developer | Economics Undergraduate
 
 ---
-## 🚀 About Me  
-- 💡 Studied **Web Development, IT, and Computer Literacy** at TechGen Africa  
-- 📊 Exploring **Artificial Intelligence (AI) and Machine Learning(ML)** to solve complex, real-world problems  
-- 🔬 Creator of **PsychAI** – a BERT-based NLP model for predicting mental health conditions  
-- 💻 Built multiple projects from **crypto trading dashboards** to **Telegram bots** and full-stack web apps
-- 🎓Economics and Statistics Student
-  
+
+## 🚀 About Me
+
+- 🔬 ML Intern at KampusAbode — building intelligent housing search systems using NLP and semantic similarity models in production
+- 🏆 Top 5 @ NACOS x NSE Fintech Hackathon (InvestNaija) · Best AI Project @ Girls in STEM Hackathon (CareBridge AI)
+- 🧠 Creator of **Sentio** — a BERT-based sentiment analysis model for mental health text (82% accuracy, 0.79 F1-score)
+- 💻 Built and shipped 5+ web applications across fintech, health tech, and social impact
+- 🎓 Economics student with a Finance lens — because the best tools are built by people who understand the systems they're fixing
+
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages**: HTML, CSS, JavaScript (ES6+), Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)
-- **Frameworks/Libraries**: React.js, Next.js, Tailwind CSS, Sass/SCSS
-- **Tools**: Git & GitHub, Figma, VS Code, Chrome DevTools 
-- **Learning**: TypeScript, Testing, API integrations, Server-Side Rendering, Flask, Automation
-  
----
-
-### 📚 What I’m working on
-
-- Mastering **real-world project building** for junior/mid-level job readiness  
-- Improving UI/UX skills by **focusing on a mix of learning, practice and feedback**  
-- Exploring **remote internships** and **open source contributions**  
-- Sharing my journey on GitHub and growing my **personal brand**  
+- **Languages:** JavaScript (ES6+), Python, HTML5, CSS3
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Sass/SCSS, Scikit-learn
+- **Data & ML:** Pandas, NumPy, NLP, SQL, Matplotlib
+- **Tools:** Git & GitHub, Figma, VS Code, Vercel, Docker (learning), AWS (learning)
 
 ---
 
-### 📬 Let’s Connect!
+### 📚 What I'm currently building
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ifeoluwaadeniyi/)  
-- 📫 Reach me: ifedaraniyi@gmail.com
+- **Pinwall** — a room-based anonymous message wall app (Next.js, Supabase, Vercel)
+- **InvestNaija** — iterating on the fintech stock market simulator that placed Top 5 nationally
+- **ClariFi** — a financial literacy edtech app built for Nigerian youth
+- Expanding into **Docker and AWS** for production-grade deployment
 
 ---
 
-⭐️ *I believe in building technology that is both smart and human-centered. It’s not just about writing code — it’s about building *impactful experiences* people love to use. If you’re interested in AI, data, or full-stack innovation — let’s connect!*  
+### 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ifeoluwaadeniyi/)
+- 📫 ifedaraniyi@gmail.com
+
+---
+
+⭐️ *I study how systems work — and build tools to improve them. If you're working on something at the intersection of tech, finance, or social impact, let's talk.*

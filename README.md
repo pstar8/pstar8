@@ -7,7 +7,8 @@
 ## 🚀 About Me
 
 - 🔬 ML Intern at KampusAbode — building intelligent housing search systems using NLP and semantic similarity models in production
-- 🏆 Top 5 @ NACOS x NSE Fintech Hackathon (InvestNaija) · Best AI Project @ Girls in STEM Hackathon (CareBridge AI)
+- 🏆 Top 5 @ NACOS x NSE Fintech Hackathon (InvestNaija)
+- 🥇 Best AI Project @ Girls in STEM Hackathon (CareBridge AI)
 - 🧠 Creator of **Sentio** — a BERT-based sentiment analysis model for mental health text (82% accuracy, 0.79 F1-score)
 - 💻 Built and shipped 5+ web applications across fintech, health tech, and social impact
 - 🎓 Economics student with a Finance lens — because the best tools are built by people who understand the systems they're fixing

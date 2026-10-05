@@ -133,7 +133,6 @@ $ ls -la projects/
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pstar8&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=C9D1D9&area=false&hide_border=true&radius=8">
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pstar8&bg_color=FFFFFF&color=24292F&line=8B5CF6&point=24292F&area=false&hide_border=true&radius=8">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pstar8&bg_color=FFFFFF&color=24292F&line=8B5CF6&point=24292F&area=false&hide_border=true&radius=8" alt="GitHub contribution graph for pstar8"/>
 </picture>
 
 ## ./connect.sh

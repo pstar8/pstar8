@@ -49,10 +49,10 @@ E: package not found. try: caffeine --double
 
 <table>
 <tr>
-<td align="center" width="96"><img src="assets/icons/javascript.svg" width="40" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-<td align="center" width="96"><img src="assets/icons/python.svg" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
-<td align="center" width="96"><img src="assets/icons/html5.svg" width="40" height="40" alt="HTML5"/><br/><sub>HTML5</sub></td>
-<td align="center" width="96"><img src="assets/icons/css3.svg" width="40" height="40" alt="CSS3"/><br/><sub>CSS3</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/><sub>HTML5</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/><sub>CSS3</sub></td>
 </tr>
 </table>
 
@@ -60,10 +60,10 @@ E: package not found. try: caffeine --double
 
 <table>
 <tr>
-<td align="center" width="96"><img src="assets/icons/react.svg" width="40" height="40" alt="React"/><br/><sub>React</sub></td>
-<td align="center" width="96"><img src="assets/icons/nextjs.svg" width="40" height="40" alt="Next.js"/><br/><sub>Next.js</sub></td>
-<td align="center" width="96"><img src="assets/icons/tailwind.svg" width="40" height="40" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
-<td align="center" width="96"><img src="assets/icons/sass.svg" width="40" height="40" alt="Sass"/><br/><sub>Sass</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/><sub>React</sub></td>
+<td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/></picture><br/><sub>Next.js</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"/><br/><sub>Sass</sub></td>
 </tr>
 </table>
 
@@ -71,10 +71,10 @@ E: package not found. try: caffeine --double
 
 <table>
 <tr>
-<td align="center" width="96"><img src="assets/icons/pandas.svg" width="40" height="40" alt="Pandas"/><br/><sub>Pandas</sub></td>
-<td align="center" width="96"><img src="assets/icons/numpy.svg" width="40" height="40" alt="NumPy"/><br/><sub>NumPy</sub></td>
-<td align="center" width="96"><img src="assets/icons/scikitlearn.svg" width="40" height="40" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
-<td align="center" width="96"><img src="assets/icons/matplotlib.svg" width="40" height="40" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
+<td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/ffffff"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></picture><br/><sub>Pandas</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br/><sub>NumPy</sub></td>
+<td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/scikitlearn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/></picture><br/><sub>Scikit-learn</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
 </tr>
 </table>
 
@@ -82,13 +82,13 @@ E: package not found. try: caffeine --double
 
 <table>
 <tr>
-<td align="center" width="96"><img src="assets/icons/git.svg" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
-<td align="center" width="96"><img src="assets/icons/github.svg" width="40" height="40" alt="GitHub"/><br/><sub>GitHub</sub></td>
-<td align="center" width="96"><img src="assets/icons/figma.svg" width="40" height="40" alt="Figma"/><br/><sub>Figma</sub></td>
-<td align="center" width="96"><img src="assets/icons/vscode.svg" width="40" height="40" alt="VS Code"/><br/><sub>VS Code</sub></td>
-<td align="center" width="96"><img src="assets/icons/vercel.svg" width="40" height="40" alt="Vercel"/><br/><sub>Vercel</sub></td>
-<td align="center" width="96"><img src="assets/icons/docker.svg" width="40" height="40" alt="Docker"/><br/><sub>Docker<br/>learning</sub></td>
-<td align="center" width="96"><img src="assets/icons/aws.svg" width="40" height="40" alt="AWS"/><br/><sub>AWS<br/>learning</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></picture><br/><sub>GitHub</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/><sub>Figma</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br/><sub>VS Code</sub></td>
+<td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/></picture><br/><sub>Vercel</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/><sub>Docker<br/>learning</sub></td>
+<td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="40" height="40" alt="AWS"/></picture><br/><sub>AWS<br/>learning</sub></td>
 </tr>
 </table>
 
